@@ -1,4 +1,4 @@
-//----------- $ Hamza's Method for understand LINKED LIST $ ------------------
+//----------- $ Learn LINKED LIST $ ------------------
 // -------------------- in easy and simple way -------------------------------
 
 // 1. header files
