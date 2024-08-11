@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **fullstack development**
 
-- 👨‍💻 All of my projects are available at [https://mohdhamzakhanportfolio.on.drv.tw/www.HiError.in](https://mohdhamzakhanportfolio.on.drv.tw/www.HiError.in)
+- 👨‍💻 All of my projects are available at [https://portfolio.on.drv.tw/www.HiError.in](https://portfoliomohdhamzakhan.on.drv.tw/www.HiError.in/)
 
 - 💬 Ask me about **Django, SQL, Python**
 
