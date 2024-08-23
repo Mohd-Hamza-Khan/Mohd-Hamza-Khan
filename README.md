@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [HiError.in](https://portfoliomohdhamzakhan.on.drv.tw/www.HiError.in/)
 
-- 💬 Ask me about **Django, SQL, Python**
+- 💬 Ask me about **Web Developement, Django, SQL, Python**
 
 - 📫 How to reach me **freestreyler@gmail.com**
 
