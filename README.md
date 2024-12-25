@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently Studing Computer Science Engineering **From Integral University Lucknow**
 
-- 🌱 I’m currently learning **Rest Framework**
+- 🌱 I’m currently learning **Reactjs library**
 
 - 🤝 I’m looking for help with **fullstack development**
 
-- 👨‍💻 All of my projects are available at [HiError.in](https://portfoliomohdhamzakhan.on.drv.tw/www.HiError.in/)
+- 👨‍💻 All of my projects are available at [HiError.in](https://github.com/mohd-hamza-khan/)
 
 - 💬 Ask me about **Web Developement, Django, SQL, Python**
 
