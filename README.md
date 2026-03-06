@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="1080" src="Banner.jpeg">
+<img width="1778" height="901" alt="image" src="https://github.com/user-attachments/assets/8a85b1f5-8698-4a8b-8eda-7793c2aa86fb" />
 <h1 align="center">Hi 👋, I'm Mohd Hamza Khan</h1>
 <h3 align="center">Aspiring AI/ML Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnQ3ZGZ4MW43eHg2Zzc4M2k4aXIzcTh1aW00NmN1b210ZGZvMm8yNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vu7FU5T4RJPo1esgna/giphy.webp">
