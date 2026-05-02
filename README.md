@@ -9,7 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=mohd-hamza-khan&label=Profile%20views&color=0e75b6&style=flat" alt="mohd-hamza-khan" /> 
 </p>
 
-- 🔭 I’m currently studying Computer Science Engineering at **Integral University, Lucknow**
+- 🔭 Final-year Computer Science student at **Integral University, Lucknow**
 
 - 🌱 I’m currently learning **Advanced LoRA Fine-Tuning**
 
@@ -72,9 +72,9 @@
     <td align="center"><b>Pandas</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></td>
     <td align="center"><b>NumPy</b><br><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="40"/></td>
     <td align="center"><b>Matplotlib</b><br><img src="https://upload.vectorlogo.zone/logos/kerasio/images/2e9d0c9f-3b56-4ba0-b940-4adbdfee322c.svg" width="40"/></td>
+    <td align="center"><b>Seaborn</b><br><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/></td>
   </tr>
   <tr>
-    <td align="center"><b>Seaborn</b><br><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/></td>
     <td align="center"><b>Django</b><br><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/></td>
     <td align="center"><b>Node.js</b><br><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40"/></td>
     <td align="center"><b>MongoDB</b><br><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40"/></td>
@@ -83,11 +83,15 @@
     <td align="center"><b>Next.js</b><br><img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" width="40"/></td>
     <td align="center"><b>TypeScript</b><br><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="40"/></td>
     <td align="center"><b>Docker</b><br><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40"/></td>
+    <td align="center"><b>LangChain</b><br><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="40"/></td>
+    <td align="center"><b>Hugging Face</b><br><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/hugging-face-icon.svg" width="40"/></td>
   </tr>
 </table>
 
 ---
 
+    
+    
 ### 🚀 Currently experimenting with
 
 - LangChain + RAG evaluation  
