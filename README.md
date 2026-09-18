@@ -1,111 +1,184 @@
 <img width="1778" height="901" alt="image" src="https://github.com/user-attachments/assets/8a85b1f5-8698-4a8b-8eda-7793c2aa86fb" />
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Mohd Hamza Khan</h1>
-<h3 align="center">Aspiring AI/ML Developer from India</h3>
+# Hi 👋, I'm Mohd Hamza Khan
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+### AI Engineer · GenAI Engineer · Backend Engineer · Full-Stack Developer
 
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=mohd-hamza-khan&label=Profile%20views&color=0e75b6&style=flat" alt="mohd-hamza-khan" /> 
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=900&color=2EAD7B&center=true&vCenter=true&width=750&lines=Building+practical+AI+systems;GenAI+%7C+RAG+%7C+AI+Agents+%7C+Automation;Python+%7C+Django+%7C+FastAPI+%7C+LLMs;Turning+ideas+into+working+products" alt="Animated introduction" />
 </p>
 
-- 🔭 Final-year Computer Science student at **Integral University, Lucknow**
+</div>
 
-- 🌱 I’m currently learning **Advanced LoRA Fine-Tuning**
+<img align="right" alt="coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🤝 Open to collaborating on **AI Automation, LLM-powered workflows, and real-world RAG systems**
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=mohd-hamza-khan&label=Profile%20views&color=0e75b6&style=flat" alt="mohd-hamza-khan" />
+</p>
 
-- 💬 Ask me about **Python, Django, and applied AI/ML (LLMs, RAG, optimization)**
+### 👨‍💻 About Me
 
-- 📫 Reach me at **mohdhamzacse@gmail.com**
-
----
-
-### ⚡ What I'm really building
-
-- 🧠 Working on **local LLM systems (Ollama + Phi-3)** — reducing API cost to zero  
-- 🔍 Building **RAG pipelines with FAISS + semantic search**  
-- ⚙️ Exploring **agentic workflows & AI automation in real-world use cases**  
-- 📊 Focused on **accuracy, latency & production-ready AI**  
-
----
-
-### 🧩 Things I care about
-
-- Clean, **efficient backend systems for AI**  
-- Making LLMs **practical, private, and scalable**  
-- Turning ideas → **working products fast**  
+* 🎓 **B.Tech in Computer Science & Engineering — Data Science & AI**, Integral University, Lucknow
+* 🚀 **AI Engineer focused on GenAI, RAG, AI Agents & backend systems**
+* 🧠 Building practical applications using **LLMs, RAG pipelines, AI automation and APIs**
+* ⚙️ Experienced with **Python, Django, FastAPI, Flask, SQL and REST APIs**
+* 🔍 Working with **FAISS, ChromaDB, LangChain, embeddings and semantic search**
+* 🤖 Integrating **OpenAI, Gemini and Hugging Face models** into real-world applications
+* 🔧 Interested in **AI agents, automation, model optimization and production-ready AI**
+* 🤝 Open to **AI/ML, GenAI, Backend and Full-Stack opportunities**
+* 📫 Reach me at **[mohdhamzacse@gmail.com](mailto:mohdhamzacse@gmail.com)**
 
 ---
 
-<h3 align="left">🌐 Connect with Me</h3>
+## 🧠 What I Build
+
+I enjoy working at the intersection of **AI and software engineering** — taking an AI idea and turning it into a usable application.
+
+### 🤖 Generative AI & RAG
+
+* Retrieval-Augmented Generation (RAG)
+* Semantic search & embeddings
+* FAISS & ChromaDB
+* LangChain
+* Prompt engineering
+* LLM application development
+* RAG evaluation & hallucination reduction
+* OpenAI / Gemini / Hugging Face APIs
+
+### ⚙️ Backend & AI Engineering
+
+* Python
+* Django & Django REST Framework
+* FastAPI
+* Flask
+* REST APIs
+* SQL / MySQL
+* MongoDB
+* JWT authentication
+* Docker
+* API testing with Postman
+
+### 🔄 AI Automation
+
+* n8n workflow automation
+* AI-powered document generation
+* LLM-powered workflows
+* Agentic workflows
+* API integrations
+* Automated research & data pipelines
+
+---
+
+## 🧪 Currently Exploring
+
+* 🧠 LLM application architecture
+* 🔍 Advanced RAG & retrieval evaluation
+* 🤖 AI agents & tool calling
+* ⚡ LLM inference optimization
+* 🎯 Prompt optimization
+* 🧩 Lightweight/local AI models
+* 🔄 AI workflow automation
+* 🚀 Production deployment of AI applications
+
+---
+
+## 🛠️ Tech Stack
 
 <table>
-  <tr>
-    <td align="center">
-      <a href="https://linkedin.com/in/mohd-hamza-khan-89540b219" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/><br>
-        LinkedIn
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://instagram.com/hamza.djangodev" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/><br>
-        Instagram
-      </a>
-    </td>
-  </tr>
+<tr>
+<td align="center"><b>Python</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
+<td align="center"><b>Django</b><br><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/></td>
+<td align="center"><b>FastAPI</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40"/></td>
+<td align="center"><b>Flask</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40"/></td>
+<td align="center"><b>PyTorch</b><br><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/></td>
+<td align="center"><b>TensorFlow</b><br><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/></td>
+</tr>
+
+<tr>
+<td align="center"><b>NumPy</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/></td>
+<td align="center"><b>Pandas</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></td>
+<td align="center"><b>Scikit-Learn</b><br><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/></td>
+<td align="center"><b>OpenCV</b><br><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/></td>
+<td align="center"><b>React</b><br><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40"/></td>
+<td align="center"><b>Next.js</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/></td>
+</tr>
+
+<tr>
+<td align="center"><b>SQL</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/></td>
+<td align="center"><b>MongoDB</b><br><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40"/></td>
+<td align="center"><b>Docker</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/></td>
+<td align="center"><b>LangChain</b><br><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="40"/></td>
+<td align="center"><b>Hugging Face</b><br><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/hugging-face-icon.svg" width="40"/></td>
+<td align="center"><b>Git</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/></td>
+</tr>
 </table>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools</h3>
+## 🌐 Connect With Me
 
 <table>
-  <tr>
-    <td align="center"><b>Python</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
-    <td align="center"><b>TensorFlow</b><br><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/></td>
-    <td align="center"><b>PyTorch</b><br><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/></td>
-    <td align="center"><b>Scikit-Learn</b><br><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/></td>
-    <td align="center"><b>Keras</b><br><img src="https://upload.vectorlogo.zone/logos/kerasio/images/6d4aa663-6d42-46af-b5a5-75ab4879df6a.svg" width="40"/></td>
-    <td align="center"><b>OpenCV</b><br><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/></td>
-    <td align="center"><b>Pandas</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></td>
-    <td align="center"><b>NumPy</b><br><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="40"/></td>
-    <td align="center"><b>Matplotlib</b><br><img src="https://upload.vectorlogo.zone/logos/kerasio/images/2e9d0c9f-3b56-4ba0-b940-4adbdfee322c.svg" width="40"/></td>
-    <td align="center"><b>Seaborn</b><br><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Django</b><br><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/></td>
-    <td align="center"><b>Node.js</b><br><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40"/></td>
-    <td align="center"><b>MongoDB</b><br><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40"/></td>
-    <td align="center"><b>SQLite</b><br><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/></td>
-    <td align="center"><b>React</b><br><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40"/></td>
-    <td align="center"><b>Next.js</b><br><img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" width="40"/></td>
-    <td align="center"><b>TypeScript</b><br><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="40"/></td>
-    <td align="center"><b>Docker</b><br><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40"/></td>
-    <td align="center"><b>LangChain</b><br><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="40"/></td>
-    <td align="center"><b>Hugging Face</b><br><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/hugging-face-icon.svg" width="40"/></td>
-  </tr>
+<tr>
+<td align="center">
+<a href="https://linkedin.com/in/mohd-hamza-khan-89540b219" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/><br>
+LinkedIn
+</a>
+</td>
+
+<td align="center">
+<a href="https://instagram.com/hamza.djangodev" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/><br>
+Instagram
+</a>
+</td>
+
+<td align="center">
+<a href="mailto:mohdhamzacse@gmail.com">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/><br>
+Email
+</a>
+</td>
+</tr>
 </table>
 
 ---
 
-    
-    
-### 🚀 Currently experimenting with
+## 📊 GitHub Stats
 
-- LangChain + RAG evaluation  
-- Prompt optimization & hallucination reduction  
-- Lightweight model deployment (edge/local setups)  
+<div align="center">
+
+<a href="https://github.com/Mohd-Hamza-Khan">
+<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Mohd-Hamza-Khan&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=D6B36A&text_color=F4EFE3&icon_color=8FC0A9&rank_icon=github" width="48%" alt="Mohd Hamza Khan's GitHub statistics"/>
+</a>
+
+<a href="https://github.com/Mohd-Hamza-Khan">
+<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Mohd-Hamza-Khan&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=D6B36A&text_color=F4EFE3&langs_count=8" width="42%" alt="Mohd Hamza Khan's top languages"/>
+</a>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Mohd-Hamza-Khan&hide_border=true&background=0D0D0D&ring=D6B36A&fire=8FC0A9&currStreakLabel=D6B36A&sideLabels=F4EFE3&dates=9DB5A6&currStreakNum=F4EFE3&sideNums=F4EFE3" width="72%" alt="Mohd Hamza Khan's GitHub contribution streak"/>
+
+</div>
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+## 💡 My Engineering Philosophy
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohd-hamza-khan&show_icons=true&locale=en&layout=compact" /></p>
+> **Build → Test → Measure → Improve**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohd-hamza-khan&" /></p>
+I focus on building software that is not only technically interesting, but also **useful, maintainable and practical**.
+
+Whether it's an AI agent, RAG pipeline, backend API or automation workflow, I enjoy taking projects from **idea → architecture → implementation → deployment**.
 
 ---
 
-⭐ *Open to AI/ML Internships & Opportunities — Let’s build impactful AI systems!*
+<div align="center">
+
+### 🚀 Building AI systems that solve real problems.
+
+**Open to AI/ML · GenAI · Backend · Full-Stack opportunities**
+
+</div>
