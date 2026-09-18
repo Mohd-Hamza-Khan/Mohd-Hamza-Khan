@@ -1,4 +1,4 @@
-<img width="1778" height="901" alt="image" src="https://github.com/user-attachments/assets/8a85b1f5-8698-4a8b-8eda-7793c2aa86fb" />
+<img width="1778" height="901" alt="image" src="https://github.com/Mohd-Hamza-Khan/Mohd-Hamza-Khan/blob/main/Banner.png?raw=true" />
 <div align="center">
 
 # Hi 👋, I'm Mohd Hamza Khan
