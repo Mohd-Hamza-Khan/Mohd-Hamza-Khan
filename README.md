@@ -27,7 +27,7 @@
 * 🤖 Integrating **OpenAI, Gemini and Hugging Face models** into real-world applications
 * 🔧 Interested in **AI agents, automation, model optimization and production-ready AI**
 * 🤝 Open to **AI/ML, GenAI, Backend and Full-Stack opportunities**
-* 🌐 **Portfolio: https://hamzakhan-dev-folio.lovable.app/**
+* 🌐 **Portfolio: [https://hamzakhan-dev-folio.lovable.app/](https://hamzakhan-dev-folio.vercel.app/)**
 * 📫 Reach me at **[mohdhamzacse@gmail.com](mailto:mohdhamzacse@gmail.com)**
 
 ---
