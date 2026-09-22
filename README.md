@@ -6,7 +6,7 @@
 ### AI Engineer · GenAI Engineer · Backend Engineer · Full-Stack Developer
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=900&color=2EAD7B&center=true&vCenter=true&width=750&lines=Building+practical+AI+systems;GenAI+%7C+RAG+%7C+AI+Agents+%7C+Automation;Python+%7C+Django+%7C+FastAPI+%7C+LLMs;Turning+ideas+into+working+products" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=35&duration=3000&pause=900&color=2EAD7B&center=true&vCenter=true&width=750&lines=Building+practical+AI+systems;GenAI+%7C+RAG+%7C+AI+Agents+%7C+Automation;Python+%7C+Django+%7C+FastAPI+%7C+LLMs;Turning+ideas+into+working+products" alt="Animated introduction" />
 </p>
 
 </div>
