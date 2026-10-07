@@ -58,6 +58,7 @@ I enjoy working at the intersection of **AI and software engineering** — takin
 * MongoDB
 * JWT authentication
 * Docker
+* AWS
 * API testing with Postman
 
 ### 🔄 AI Automation
