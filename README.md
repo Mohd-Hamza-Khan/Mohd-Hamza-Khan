@@ -39,13 +39,13 @@ I enjoy working at the intersection of **AI and software engineering** — takin
 ### 🤖 Generative AI & RAG
 
 * Retrieval-Augmented Generation (RAG)
-* Semantic search & embeddings
+* Semantic Search & Vector Embeddings
 * FAISS & ChromaDB
 * LangChain
-* Prompt engineering
-* LLM application development
-* RAG evaluation & hallucination reduction
-* OpenAI / Gemini / Hugging Face APIs
+* Prompt Engineering & LLM Workflows
+* LLM Application Development
+* RAG Evaluation & Hallucination Mitigation
+* OpenAI, Gemini & Hugging Face APIs
 
 ### ⚙️ Backend & AI Engineering
 
