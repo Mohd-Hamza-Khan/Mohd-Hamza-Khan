@@ -50,16 +50,15 @@ I enjoy working at the intersection of **AI and software engineering** — takin
 ### ⚙️ Backend & AI Engineering
 
 * Python
-* Django & Django REST Framework
-* FastAPI
+* FastAPI, Django & Django REST Framework
 * Flask
-* REST APIs
-* SQL / MySQL
-* MongoDB
-* JWT authentication
+* RESTful API Development
+* SQL / MySQL & MongoDB
+* JWT Authentication & Authorization
+* API Integration & Backend Architecture
 * Docker
 * AWS
-* API testing with Postman
+* API Testing with Postman
 
 ### 🔄 AI Automation
 
