@@ -60,15 +60,15 @@ I enjoy working at the intersection of **AI and software engineering** — takin
 * AWS
 * API Testing with Postman
 
-### 🔄 AI Automation
+### 🔄 AI Automation & Agentic Workflows
 
-* n8n workflow automation
-* AI-powered document generation
-* LLM-powered workflows
-* Agentic workflows
-* API integrations
-* Automated research & data pipelines
-
+* n8n Workflow Automation
+* LLM-Powered Workflow Orchestration
+* AI Agents & Agentic Workflows
+* AI-Powered Document Processing & Generation
+* API Integration & Third-Party Services
+* Automated Research & Data Pipelines
+* AI Tool Integration & Function Calling
 ---
 
 ## 🧪 Currently Exploring
