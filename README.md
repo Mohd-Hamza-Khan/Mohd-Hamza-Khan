@@ -36,39 +36,52 @@
 
 I enjoy working at the intersection of **AI and software engineering** — taking an AI idea and turning it into a usable application.
 
-### 🤖 Generative AI & RAG
+<table>
+  <tr>
+    <th>🤖 Generative AI & RAG</th>
+    <th>⚙️ Backend & AI Engineering</th>
+    <th>🔄 AI Automation & Agentic Workflows</th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>Retrieval-Augmented Generation (RAG)</li>
+        <li>Semantic Search & Vector Embeddings</li>
+        <li>FAISS & ChromaDB</li>
+        <li>LangChain</li>
+        <li>Prompt Engineering</li>
+        <li>LLM Application Development</li>
+        <li>RAG Evaluation & Hallucination Mitigation</li>
+        <li>OpenAI, Gemini & Hugging Face</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Python</li>
+        <li>FastAPI, Django & Flask</li>
+        <li>REST APIs & Backend Architecture</li>
+        <li>SQL, MySQL & MongoDB</li>
+        <li>JWT Authentication & Authorization</li>
+        <li>Docker & AWS</li>
+        <li>API Integration & Testing (Postman)</li>
+        <li>Backend Development & Deployment</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>n8n Workflow Automation</li>
+        <li>LLM-Powered Workflow Orchestration</li>
+        <li>AI Agents & Agentic Workflows</li>
+        <li>AI-Powered Document Processing</li>
+        <li>API Integration & Third-Party Services</li>
+        <li>Automated Research & Data Pipelines</li>
+        <li>AI Tool Integration & Function Calling</li>
+        <li>Workflow Optimization & Task Automation</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-* Retrieval-Augmented Generation (RAG)
-* Semantic Search & Vector Embeddings
-* FAISS & ChromaDB
-* LangChain
-* Prompt Engineering & LLM Workflows
-* LLM Application Development
-* RAG Evaluation & Hallucination Mitigation
-* OpenAI, Gemini & Hugging Face APIs
-
-### ⚙️ Backend & AI Engineering
-
-* Python
-* FastAPI, Django & Django REST Framework
-* Flask
-* RESTful API Development
-* SQL / MySQL & MongoDB
-* JWT Authentication & Authorization
-* API Integration & Backend Architecture
-* Docker
-* AWS
-* API Testing with Postman
-
-### 🔄 AI Automation & Agentic Workflows
-
-* n8n Workflow Automation
-* LLM-Powered Workflow Orchestration
-* AI Agents & Agentic Workflows
-* AI-Powered Document Processing & Generation
-* API Integration & Third-Party Services
-* Automated Research & Data Pipelines
-* AI Tool Integration & Function Calling
 ---
 
 ## 🧪 Currently Exploring
