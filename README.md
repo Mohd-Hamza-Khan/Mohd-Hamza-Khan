@@ -99,34 +99,23 @@ I enjoy working at the intersection of **AI and software engineering** — takin
 
 ## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td align="center"><b>Python</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
-<td align="center"><b>Django</b><br><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/></td>
-<td align="center"><b>FastAPI</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40"/></td>
-<td align="center"><b>Flask</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40"/></td>
-<td align="center"><b>PyTorch</b><br><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/></td>
-<td align="center"><b>TensorFlow</b><br><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/></td>
-</tr>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,pytorch,tensorflow,sklearn,numpy,pandas,opencv,react,nextjs,mysql,mongodb,docker,aws,git,github,postman&perline=7" alt="Tech Stack" />
+  </a>
+</p>
 
-<tr>
-<td align="center"><b>NumPy</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/></td>
-<td align="center"><b>Pandas</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></td>
-<td align="center"><b>Scikit-Learn</b><br><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/></td>
-<td align="center"><b>OpenCV</b><br><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/></td>
-<td align="center"><b>React</b><br><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40"/></td>
-<td align="center"><b>Next.js</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/></td>
-</tr>
+### 🤖 Generative AI & LLMs
 
-<tr>
-<td align="center"><b>SQL</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/></td>
-<td align="center"><b>MongoDB</b><br><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40"/></td>
-<td align="center"><b>Docker</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/></td>
-<td align="center"><b>LangChain</b><br><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="40"/></td>
-<td align="center"><b>Hugging Face</b><br><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/hugging-face-icon.svg" width="40"/></td>
-<td align="center"><b>Git</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/></td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS" />
+  <img src="https://img.shields.io/badge/ChromaDB-6C47FF?style=for-the-badge&logo=databricks&logoColor=white" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+</p>
 
 ---
 
