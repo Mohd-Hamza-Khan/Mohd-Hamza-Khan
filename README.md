@@ -86,14 +86,14 @@ I enjoy working at the intersection of **AI and software engineering** — takin
 
 ## 🧪 Currently Exploring
 
-* 🧠 LLM application architecture
-* 🔍 Advanced RAG & retrieval evaluation
-* 🤖 AI agents & tool calling
-* ⚡ LLM inference optimization
-* 🎯 Prompt optimization
-* 🧩 Lightweight/local AI models
-* 🔄 AI workflow automation
-* 🚀 Production deployment of AI applications
+* 🧠 Advanced LLM Application Architecture & System Design
+* 🔍 Advanced RAG, Hybrid Search & Retrieval Evaluation
+* 🤖 AI Agents, Tool Calling & Agentic Workflows
+* ⚡ LLM Inference Optimization & Efficient Model Serving
+* 🎯 Prompt Engineering & Context Optimization
+* 🧩 Open-Source LLMs & Lightweight AI Models
+* 🔄 AI Workflow Automation with n8n
+* 🚀 Production Deployment, Docker & AWS
 
 ---
 
