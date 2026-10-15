@@ -22,13 +22,14 @@
 * 🎓 **B.Tech in Computer Science & Engineering — Data Science & AI**, Integral University, Lucknow
 * 🚀 **AI Engineer focused on GenAI, RAG, AI Agents & backend systems**
 * 🧠 Building practical applications using **LLMs, RAG pipelines, AI automation and APIs**
-* ⚙️ Experienced with **Python, Django, FastAPI, Flask, SQL and REST APIs**
-* 🔍 Working with **FAISS, ChromaDB, LangChain, embeddings and semantic search**
+* ⚙️ Working with **Python, Django, FastAPI, Flask, SQL and REST APIs**
+* 🔍 Exploring **FAISS, ChromaDB, LangChain, embeddings and semantic search**
 * 🤖 Integrating **OpenAI, Gemini and Hugging Face models** into real-world applications
-* 🔧 Interested in **AI agents, automation, model optimization and production-ready AI**
+* ☁️ Exploring **AWS for AI deployment**, including **Amazon EC2, Amazon S3, IAM and Amazon Bedrock**
+* 🔧 Interested in **AI agents, workflow automation, model optimization and production-ready AI**
 * 🤝 Open to **AI/ML, GenAI, Backend and Full-Stack opportunities**
-* 🌐 **Portfolio: [https://hamzakhan-dev-folio.vercel.app/](https://hamzakhan-dev-folio.vercel.app/)**
-* 📫 Reach me at **[mohdhamzacse@gmail.com](mailto:mohdhamzacse@gmail.com)**
+* 🌐 **Portfolio:** [hamzakhan-dev-folio.vercel.app](https://hamzakhan-dev-folio.vercel.app/)
+* 📫 **Email:** [mohdhamzacse@gmail.com](mailto:mohdhamzacse@gmail.com)
 
 ---
 
