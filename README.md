@@ -99,11 +99,9 @@ I enjoy working at the intersection of **AI and software engineering** — takin
 
 ---
 
-## 🛠️ Tech Stack
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,pytorch,tensorflow,sklearn,numpy,pandas,opencv,react,nextjs,mysql,mongodb,docker,aws,git,github,postman&perline=7" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,pytorch,tensorflow,sklearn,numpy,pandas,opencv,react,nextjs,mysql,mongodb,docker,aws,git,github,postman&perline=7" alt="Programming, AI/ML, Backend, Frontend, Database, Cloud and Developer Tools" />
   </a>
 </p>
 
