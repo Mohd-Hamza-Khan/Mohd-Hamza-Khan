@@ -35,54 +35,50 @@
 
 ## 🧠 What I Build
 
-I enjoy working at the intersection of **AI and software engineering** — taking an AI idea and turning it into a usable application.
+I build practical AI applications by combining **GenAI, backend engineering, and automation**.
 
 <table>
   <tr>
     <th>🤖 Generative AI & RAG</th>
-    <th>⚙️ Backend & AI Engineering</th>
-    <th>🔄 AI Automation & Agentic Workflows</th>
+    <th>⚙️ Backend Engineering</th>
+    <th>🔄 AI Automation & Agents</th>
   </tr>
   <tr>
     <td>
       <ul>
-        <li>Retrieval-Augmented Generation (RAG)</li>
-        <li>Semantic Search & Vector Embeddings</li>
+        <li>RAG & Semantic Search</li>
+        <li>Vector Embeddings</li>
         <li>FAISS & ChromaDB</li>
-        <li>LangChain</li>
+        <li>LangChain & LangGraph</li>
         <li>Prompt Engineering</li>
-        <li>LLM Application Development</li>
-        <li>RAG Evaluation & Hallucination Mitigation</li>
+        <li>LLM Applications & Evaluation</li>
         <li>OpenAI, Gemini & Hugging Face</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>Python</li>
+        <li>Python & REST APIs</li>
         <li>FastAPI, Django & Flask</li>
-        <li>REST APIs & Backend Architecture</li>
         <li>SQL, MySQL & MongoDB</li>
-        <li>JWT Authentication & Authorization</li>
+        <li>JWT Authentication</li>
         <li>Docker & AWS</li>
-        <li>API Integration & Testing (Postman)</li>
-        <li>Backend Development & Deployment</li>
+        <li>API Integration & Testing</li>
+        <li>Backend Deployment</li>
       </ul>
     </td>
     <td>
       <ul>
         <li>n8n Workflow Automation</li>
-        <li>LLM-Powered Workflow Orchestration</li>
         <li>AI Agents & Agentic Workflows</li>
-        <li>AI-Powered Document Processing</li>
-        <li>API Integration & Third-Party Services</li>
-        <li>Automated Research & Data Pipelines</li>
-        <li>AI Tool Integration & Function Calling</li>
-        <li>Workflow Optimization & Task Automation</li>
+        <li>LLM Workflow Orchestration</li>
+        <li>AI Document Processing</li>
+        <li>Tool & Function Calling</li>
+        <li>API Integrations</li>
+        <li>Automated Research & Tasks</li>
       </ul>
     </td>
   </tr>
 </table>
-
 ---
 
 ## 🧪 Currently Exploring
