@@ -37,14 +37,14 @@
 
 I build practical AI applications by combining **GenAI, backend engineering, and automation**.
 
-<table>
+<table width="100%">
   <tr>
-    <th>🤖 Generative AI & RAG</th>
-    <th>⚙️ Backend Engineering</th>
-    <th>🔄 AI Automation & Agents</th>
+    <th width="33.33%">🤖 Generative AI & RAG</th>
+    <th width="33.33%">⚙️ Backend Engineering</th>
+    <th width="33.33%">🔄 AI Automation & Agents</th>
   </tr>
   <tr>
-    <td>
+    <td width="33.33%" valign="top">
       <ul>
         <li>RAG & Semantic Search</li>
         <li>Vector Embeddings</li>
@@ -55,7 +55,7 @@ I build practical AI applications by combining **GenAI, backend engineering, and
         <li>OpenAI, Gemini & Hugging Face</li>
       </ul>
     </td>
-    <td>
+    <td width="33.33%" valign="top">
       <ul>
         <li>Python & REST APIs</li>
         <li>FastAPI, Django & Flask</li>
@@ -66,7 +66,7 @@ I build practical AI applications by combining **GenAI, backend engineering, and
         <li>Backend Deployment</li>
       </ul>
     </td>
-    <td>
+    <td width="33.33%" valign="top">
       <ul>
         <li>n8n Workflow Automation</li>
         <li>AI Agents & Agentic Workflows</li>
